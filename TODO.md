@@ -1,0 +1,11 @@
+
+- [ ] pwa stuff
+- [ ] Replace SVG logo
+- [ ] Push to github
+- [ ] Github actions to deploy to github pages
+- [ ] Set up Context and use Reducer to store state
+- [ ] Store Sensitivity in local storage
+- [ ] Time formatting bug around 0
+- [ ] Test
+- [x] Look into audio filters?
+- [ ] Animate popcorn popping on every peak
