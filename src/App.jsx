@@ -49,7 +49,7 @@ function App() {
       volumeMeter.port.onmessage = ({ data }) => {
         if (data * 1000 > sensitivity) { 
           setLastPeak(Date.now());
-          console.log('volume', data * 1000);
+          console.log('pop');
         }
       }
     }
