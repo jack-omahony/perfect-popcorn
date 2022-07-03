@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/perfect-popcorn/static/css/main.42d81f9f.css",
+    "main.js": "/perfect-popcorn/static/js/main.68e59c74.js",
+    "static/js/787.efc72d48.chunk.js": "/perfect-popcorn/static/js/787.efc72d48.chunk.js",
+    "static/media/Perfect Popcorn.svg": "/perfect-popcorn/static/media/Perfect Popcorn.82aeee9aa0ae57018167f45184b4c2f9.svg",
+    "index.html": "/perfect-popcorn/index.html",
+    "main.42d81f9f.css.map": "/perfect-popcorn/static/css/main.42d81f9f.css.map",
+    "main.68e59c74.js.map": "/perfect-popcorn/static/js/main.68e59c74.js.map",
+    "787.efc72d48.chunk.js.map": "/perfect-popcorn/static/js/787.efc72d48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d81f9f.css",
+    "static/js/main.68e59c74.js"
+  ]
+}
