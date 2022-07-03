@@ -1,7 +1,7 @@
 
 - [ ] pwa stuff
 - [ ] Replace SVG logo
-- [ ] Push to github
+- [x] Push to github
 - [ ] Github actions to deploy to github pages
 - [ ] Set up Context and use Reducer to store state
 - [ ] Store Sensitivity in local storage
